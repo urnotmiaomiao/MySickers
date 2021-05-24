@@ -1,2 +1,3 @@
 # MySickers
-表情包们
+
+可以下载秃秃表情包，导入到Goodnotes里当作贴纸！
